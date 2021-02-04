@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <title>Assignments</title>  
+
+<link href="stylesheet.css" rel="stylesheet">
+</head>
+
+<header>
+  <nav class="navbar  navbar-fixed-top navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.html" title=""></a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="EP1000.html" title="">Home</a></li>
+          <li><a href="about.html" title="">About</a></li>
+          <li><a href="assignments.html" title="">Assignments</a></li> 
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+<div class="section-container">
+    <div class="container">
+        <div class="row section-container-spacer">
+            <div class="col-xs-12">
+                <div class="text-center">
+                  <div class="col-md-8 col-md-offset-2">
+                    <p> <br> </p>
+                    <h2>Final Project</h2>
+                    <p>Since Mr Rodney has expressed his extreme want on having a new table lamp for the soldering station, I have decided to go along his wishes and build one for my final project. (In hopes of getting higher marks >.<) The following are the steps that I took to complete my final project and I have broken it into different parts for ease of reading. <br> <br> 
+                    <h4>Research & Design</h4>
+                    <b> STEP 1: </b> First of all, I have decided to do some research online through the Instructables website to get some inspiration. <br> <br>
+                    <img src="Images/table lamp (1).jpg" width=180px height = 300px alt> <br> <br>
+                    <b> STEP 2: </b> After getting some inspiration through my research, I have settled for design in my brain and drew it out to see the design and see if there are any needed changes. This was my first rough sketch.  <br> <br> 
+                    <img src="Images/table lamp (2).jpg" width=180px height = 300px alt> <br> <br> 
+                    <b> STEP 3: </b> I have decided that my initial design was not as smart as I thought it was therefore I was contemplating if I should push the box back or if i should just move it to the back. <br> <br>
+                    <img src="Images/table lamp (3).jpg" width=180px height = 300px alt> <br> <br>
+                    <b> STEP 4: </b> After comparing the pros and cons, I have decided that pushing the box back was a little dumb as the light would only be shining on the box and not at where the user would want to be. Hence my decision was to bring the box to the back and rotate it such that the buttons are on the side of the dominant hand of most people - the right hand. <br> <br>
+                    <img src="Images/table lamp (4).jpg" width=180px height = 300px alt> <br> <br>
+                    <b> STEP 5: </b>   <br> <br>
+                    <img src="Images/table lamp (5).jpg" width=180px height = 300px alt> <br> <br>
+                    <b> STEP 6: </b>   <br> <br>
+                    <img src="Images/table lamp (6).jpg" width=180px height = 300px alt> <br> <br>
+                    <b> STEP 7: </b>   <br> <br>
+                    <img src="Images/table lamp (7).jpg" width=180px height = 300px alt> <br> <br>
+                    Fusion 360 design file for the small box: <a href = "small box.f3d"> small box design.f3d </a>
+                    *Due to time constraints, I have decided to not do a 3D fusion 360 design. Instead I used Fusion 360 to do my designs 2D, so that I can use the template to do the laser cutting.*
+                    Click <a> <a href= "assignments.html"> here</a>  to return the 'Assignments' page. </p>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</html>
